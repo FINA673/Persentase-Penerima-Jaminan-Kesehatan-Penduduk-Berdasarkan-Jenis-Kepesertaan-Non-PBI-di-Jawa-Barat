@@ -225,7 +225,14 @@ function updateStats(data) {
     document.getElementById('highestRegion').textContent = maxData.kabupaten_kota;
     document.getElementById('lowestValue').textContent = `${minData.persentase}%`;
     document.getElementById('lowestRegion').textContent = minData.kabupaten_kota;
+
+    // Tambahkan insight otomatis
+    const insight = document.getElementById('insightText');
+    if (insight) {
+        insight.textContent = `Kabupaten ${maxData.kabupaten_kota} memiliki persentase tertinggi (${maxData.persentase}%), sedangkan ${minData.kabupaten_kota} terendah (${minData.persentase}%).`;
+    }
 }
+
 
 // Tombol reset zoom
 document.getElementById('resetZoom').addEventListener('click', () => {
@@ -289,6 +296,15 @@ async function updateChart() {
     } else {
         renderChart(filtered, chartType, labelTitle);
     }
+
+        function updateChartDescription(jenisFull, tahun, chartType) {
+            const desc = document.getElementById('chartDescription');
+            if (!desc) return;
+    
+        const readableType = chartType.charAt(0).toUpperCase() + chartType.slice(1);
+        desc.textContent = `${readableType} ini menampilkan perbandingan persentase peserta ${jenisFull} di setiap kabupaten/kota untuk tahun ${tahun}.`;
+    }
+
 }
 
 // --- Event listener untuk dropdown ---
