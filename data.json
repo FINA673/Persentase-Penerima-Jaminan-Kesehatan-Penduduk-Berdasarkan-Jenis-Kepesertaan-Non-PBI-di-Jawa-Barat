@@ -1,0 +1,974 @@
+[
+  {
+    "kabupaten_kota":"KABUPATEN BOGOR",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":25.93
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BOGOR",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":19.68
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BOGOR",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.47
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUKABUMI",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":20.02
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUKABUMI",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":8.71
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUKABUMI",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.47
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIANJUR",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":15.35
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIANJUR",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":8.77
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIANJUR",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.6
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BANDUNG",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":27.89
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BANDUNG",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":14.99
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BANDUNG",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.06
+  },
+  {
+    "kabupaten_kota":"KABUPATEN GARUT",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":13.89
+  },
+  {
+    "kabupaten_kota":"KABUPATEN GARUT",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":7.15
+  },
+  {
+    "kabupaten_kota":"KABUPATEN GARUT",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.49
+  },
+  {
+    "kabupaten_kota":"KABUPATEN TASIKMALAYA",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":10.39
+  },
+  {
+    "kabupaten_kota":"KABUPATEN TASIKMALAYA",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":6.66
+  },
+  {
+    "kabupaten_kota":"KABUPATEN TASIKMALAYA",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.62
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIAMIS",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":12.94
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIAMIS",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":11.5
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIAMIS",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.62
+  },
+  {
+    "kabupaten_kota":"KABUPATEN KUNINGAN",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":17.33
+  },
+  {
+    "kabupaten_kota":"KABUPATEN KUNINGAN",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":16.31
+  },
+  {
+    "kabupaten_kota":"KABUPATEN KUNINGAN",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.61
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIREBON",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":19.29
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIREBON",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":12.4
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIREBON",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.0
+  },
+  {
+    "kabupaten_kota":"KABUPATEN MAJALENGKA",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":18.64
+  },
+  {
+    "kabupaten_kota":"KABUPATEN MAJALENGKA",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":10.67
+  },
+  {
+    "kabupaten_kota":"KABUPATEN MAJALENGKA",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.86
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUMEDANG",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":21.13
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUMEDANG",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":12.2
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUMEDANG",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":3.24
+  },
+  {
+    "kabupaten_kota":"KABUPATEN INDRAMAYU",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":13.42
+  },
+  {
+    "kabupaten_kota":"KABUPATEN INDRAMAYU",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":12.11
+  },
+  {
+    "kabupaten_kota":"KABUPATEN INDRAMAYU",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":0.71
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUBANG",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":24.11
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUBANG",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":11.73
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUBANG",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.99
+  },
+  {
+    "kabupaten_kota":"KABUPATEN PURWAKARTA",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":30.28
+  },
+  {
+    "kabupaten_kota":"KABUPATEN PURWAKARTA",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":16.45
+  },
+  {
+    "kabupaten_kota":"KABUPATEN PURWAKARTA",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.86
+  },
+  {
+    "kabupaten_kota":"KABUPATEN KARAWANG",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":30.32
+  },
+  {
+    "kabupaten_kota":"KABUPATEN KARAWANG",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":12.1
+  },
+  {
+    "kabupaten_kota":"KABUPATEN KARAWANG",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.21
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BEKASI",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":38.17
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BEKASI",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":11.92
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BEKASI",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":0.92
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BANDUNG BARAT",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":21.25
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BANDUNG BARAT",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":13.43
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BANDUNG BARAT",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.17
+  },
+  {
+    "kabupaten_kota":"KABUPATEN PANGANDARAN",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":10.77
+  },
+  {
+    "kabupaten_kota":"KABUPATEN PANGANDARAN",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":5.54
+  },
+  {
+    "kabupaten_kota":"KABUPATEN PANGANDARAN",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.95
+  },
+  {
+    "kabupaten_kota":"KOTA BOGOR",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":31.29
+  },
+  {
+    "kabupaten_kota":"KOTA BOGOR",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":16.41
+  },
+  {
+    "kabupaten_kota":"KOTA BOGOR",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":3.5
+  },
+  {
+    "kabupaten_kota":"KOTA SUKABUMI",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":30.56
+  },
+  {
+    "kabupaten_kota":"KOTA SUKABUMI",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":14.64
+  },
+  {
+    "kabupaten_kota":"KOTA SUKABUMI",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":3.9
+  },
+  {
+    "kabupaten_kota":"KOTA BANDUNG",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":32.35
+  },
+  {
+    "kabupaten_kota":"KOTA BANDUNG",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":18.89
+  },
+  {
+    "kabupaten_kota":"KOTA BANDUNG",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":4.45
+  },
+  {
+    "kabupaten_kota":"KOTA CIREBON",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":29.3
+  },
+  {
+    "kabupaten_kota":"KOTA CIREBON",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":8.62
+  },
+  {
+    "kabupaten_kota":"KOTA CIREBON",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.63
+  },
+  {
+    "kabupaten_kota":"KOTA BEKASI",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":41.76
+  },
+  {
+    "kabupaten_kota":"KOTA BEKASI",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":18.7
+  },
+  {
+    "kabupaten_kota":"KOTA BEKASI",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":3.27
+  },
+  {
+    "kabupaten_kota":"KOTA DEPOK",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":40.49
+  },
+  {
+    "kabupaten_kota":"KOTA DEPOK",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":24.47
+  },
+  {
+    "kabupaten_kota":"KOTA DEPOK",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":3.26
+  },
+  {
+    "kabupaten_kota":"KOTA CIMAHI",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":38.91
+  },
+  {
+    "kabupaten_kota":"KOTA CIMAHI",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":17.88
+  },
+  {
+    "kabupaten_kota":"KOTA CIMAHI",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":4.38
+  },
+  {
+    "kabupaten_kota":"KOTA TASIKMALAYA",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":20.08
+  },
+  {
+    "kabupaten_kota":"KOTA TASIKMALAYA",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":5.98
+  },
+  {
+    "kabupaten_kota":"KOTA TASIKMALAYA",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.75
+  },
+  {
+    "kabupaten_kota":"KOTA BANJAR",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":21.57
+  },
+  {
+    "kabupaten_kota":"KOTA BANJAR",
+    "tahun":2023,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":9.26
+  },
+  {
+    "kabupaten_kota":"KOTA BANJAR",
+    "tahun":2023,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.58
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BOGOR",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":25.31
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BOGOR",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":19.07
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BOGOR",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.37
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUKABUMI",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":21.02
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUKABUMI",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":9.01
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUKABUMI",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.34
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIANJUR",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":15.79
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIANJUR",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":9.86
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIANJUR",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.56
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BANDUNG",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":28.34
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BANDUNG",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":16.68
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BANDUNG",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.11
+  },
+  {
+    "kabupaten_kota":"KABUPATEN GARUT",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":15.14
+  },
+  {
+    "kabupaten_kota":"KABUPATEN GARUT",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":8.45
+  },
+  {
+    "kabupaten_kota":"KABUPATEN GARUT",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.36
+  },
+  {
+    "kabupaten_kota":"KABUPATEN TASIKMALAYA",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":11.06
+  },
+  {
+    "kabupaten_kota":"KABUPATEN TASIKMALAYA",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":7.88
+  },
+  {
+    "kabupaten_kota":"KABUPATEN TASIKMALAYA",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.52
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIAMIS",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":13.6
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIAMIS",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":12.87
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIAMIS",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.39
+  },
+  {
+    "kabupaten_kota":"KABUPATEN KUNINGAN",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":17.76
+  },
+  {
+    "kabupaten_kota":"KABUPATEN KUNINGAN",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":17.23
+  },
+  {
+    "kabupaten_kota":"KABUPATEN KUNINGAN",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.83
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIREBON",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":20.24
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIREBON",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":11.97
+  },
+  {
+    "kabupaten_kota":"KABUPATEN CIREBON",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.04
+  },
+  {
+    "kabupaten_kota":"KABUPATEN MAJALENGKA",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":19.95
+  },
+  {
+    "kabupaten_kota":"KABUPATEN MAJALENGKA",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":10.47
+  },
+  {
+    "kabupaten_kota":"KABUPATEN MAJALENGKA",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.69
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUMEDANG",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":21.67
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUMEDANG",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":12.61
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUMEDANG",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.91
+  },
+  {
+    "kabupaten_kota":"KABUPATEN INDRAMAYU",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":13.43
+  },
+  {
+    "kabupaten_kota":"KABUPATEN INDRAMAYU",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":12.1
+  },
+  {
+    "kabupaten_kota":"KABUPATEN INDRAMAYU",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":0.77
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUBANG",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":24.86
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUBANG",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":12.58
+  },
+  {
+    "kabupaten_kota":"KABUPATEN SUBANG",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.85
+  },
+  {
+    "kabupaten_kota":"KABUPATEN PURWAKARTA",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":29.95
+  },
+  {
+    "kabupaten_kota":"KABUPATEN PURWAKARTA",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":16.26
+  },
+  {
+    "kabupaten_kota":"KABUPATEN PURWAKARTA",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.69
+  },
+  {
+    "kabupaten_kota":"KABUPATEN KARAWANG",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":30.8
+  },
+  {
+    "kabupaten_kota":"KABUPATEN KARAWANG",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":12.22
+  },
+  {
+    "kabupaten_kota":"KABUPATEN KARAWANG",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.09
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BEKASI",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":38.84
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BEKASI",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":11.3
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BEKASI",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":0.87
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BANDUNG BARAT",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":21.73
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BANDUNG BARAT",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":13.74
+  },
+  {
+    "kabupaten_kota":"KABUPATEN BANDUNG BARAT",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.05
+  },
+  {
+    "kabupaten_kota":"KABUPATEN PANGANDARAN",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":11.3
+  },
+  {
+    "kabupaten_kota":"KABUPATEN PANGANDARAN",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":4.42
+  },
+  {
+    "kabupaten_kota":"KABUPATEN PANGANDARAN",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":1.76
+  },
+  {
+    "kabupaten_kota":"KOTA BOGOR",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":31.83
+  },
+  {
+    "kabupaten_kota":"KOTA BOGOR",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":16.08
+  },
+  {
+    "kabupaten_kota":"KOTA BOGOR",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":3.18
+  },
+  {
+    "kabupaten_kota":"KOTA SUKABUMI",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":30.88
+  },
+  {
+    "kabupaten_kota":"KOTA SUKABUMI",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":14.05
+  },
+  {
+    "kabupaten_kota":"KOTA SUKABUMI",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":3.48
+  },
+  {
+    "kabupaten_kota":"KOTA BANDUNG",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":32.06
+  },
+  {
+    "kabupaten_kota":"KOTA BANDUNG",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":19.01
+  },
+  {
+    "kabupaten_kota":"KOTA BANDUNG",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":3.98
+  },
+  {
+    "kabupaten_kota":"KOTA CIREBON",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":29.02
+  },
+  {
+    "kabupaten_kota":"KOTA CIREBON",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":8.01
+  },
+  {
+    "kabupaten_kota":"KOTA CIREBON",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.65
+  },
+  {
+    "kabupaten_kota":"KOTA BEKASI",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":42.08
+  },
+  {
+    "kabupaten_kota":"KOTA BEKASI",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":18.89
+  },
+  {
+    "kabupaten_kota":"KOTA BEKASI",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":3.03
+  },
+  {
+    "kabupaten_kota":"KOTA DEPOK",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":41.0
+  },
+  {
+    "kabupaten_kota":"KOTA DEPOK",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":24.08
+  },
+  {
+    "kabupaten_kota":"KOTA DEPOK",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.99
+  },
+  {
+    "kabupaten_kota":"KOTA CIMAHI",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":38.02
+  },
+  {
+    "kabupaten_kota":"KOTA CIMAHI",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":14.62
+  },
+  {
+    "kabupaten_kota":"KOTA CIMAHI",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":3.91
+  },
+  {
+    "kabupaten_kota":"KOTA TASIKMALAYA",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":20.48
+  },
+  {
+    "kabupaten_kota":"KOTA TASIKMALAYA",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":6.03
+  },
+  {
+    "kabupaten_kota":"KOTA TASIKMALAYA",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.47
+  },
+  {
+    "kabupaten_kota":"KOTA BANJAR",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA PENERIMA UPAH (PPU)",
+    "persentase":21.79
+  },
+  {
+    "kabupaten_kota":"KOTA BANJAR",
+    "tahun":2024,
+    "jenisPBI":"PEKERJA BUKAN PENERIMA UPAH (PBPU)",
+    "persentase":9.25
+  },
+  {
+    "kabupaten_kota":"KOTA BANJAR",
+    "tahun":2024,
+    "jenisPBI":"BUKAN PEKERJA (BP)",
+    "persentase":2.36
+  }
+]

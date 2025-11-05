@@ -1,0 +1,115 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background: linear-gradient(to right, #f9a8d4, #fcd34d);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+    overflow: hidden;
+}
+
+header {
+    background: linear-gradient(to right, #f97316, #f59e0b);
+    padding: 20px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.chart-container {
+    width: 70%;
+    min-width: 350px;
+}
+
+.controls {
+    background-color: #fff3e0;
+    border: 2px solid #f59e0b;
+    padding: 15px;
+    border-radius: 10px;
+    width: 25%;
+    min-width: 250px;
+}
+
+.controls h3 {
+    margin-top: 0;
+    font-size: 18px;
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+select {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.stats {
+    text-align: center;
+    background: linear-gradient(to right, #f97316, #fb923c);
+    padding: 20px;
+    color: #000;
+}
+
+.stats-box {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+
+.stats-box div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* biar teks h3 agak ke atas */
+  align-items: center;
+  background: #ffedd5;
+  padding: 15px;
+  border-radius: 15px;
+  width: 40%;
+  min-width: 200px;
+}
+
+.stats-box h3 {
+  margin-top: 5px;        /* geser sedikit ke atas */
+  margin-bottom: 5px;     /* kurangi jarak bawah */
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+/* Mengatur font untuk angka persentase di statistik */
+.stats-box p {
+  font-size: 2.5rem;      /* ubah ukuran angka */
+  font-weight: bold;      /* tebalkan teks */
+  color: #000000;         /* warna teks hitam */
+  margin: 10px 0;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Opsional: gaya berbeda untuk tertinggi & terendah */
+.stats-box .highest p {
+  color: #008000; /* hijau untuk tertinggi */
+}
+
+.stats-box .lowest p {
+  color: #d00000; /* merah untuk terendah */
+}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Penerima Jaminan Kesehatan - Jawa Barat</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Persentase Penerima Jaminan Kesehatan Penduduk Berdasarkan Jenis Kepesertaan Non Penerima Bantuan Iuran (Non PBI) di Jawa Barat</h1>
+        </header>
+
+        <main>
+            <div class="chart-container">
+                <canvas id="pbiChart"></canvas>
+                <canvas id="mapChart" style="display:none; margin-top:20px;"></canvas>
+            </div>
+
+            <div class="controls">
+                <h3>Sesuaikan tampilan grafik</h3>
+
+                <label>Pilih Grafik</label>
+                <select id="chartType">
+                    <option value="bar">Bar Chart</option>
+                    <option value="line">Line Chart</option>
+                    <option value="pie">Pie Chart</option>
+                    <option value="scatter">Scatter Plot</option>
+                    <option value="histogram">Histogram</option>
+                    <option value="map">Peta Interaktif</option>
+                </select>
+
+                <label>Pilih Jenis PBI</label>
+                <select id="jenisPBI">
+                    <option value="PEKERJA PENERIMA UPAH (PPU)">PEKERJA PENERIMA UPAH (PPU)</option>
+                    <option value="PEKERJA BUKAN PENERIMA UPAH (PBPU)">PEKERJA BUKAN PENERIMA UPAH (PBPU)</option>
+                    <option value="BUKAN PEKERJA (BP)">BUKAN PEKERJA (BP)</option>
+                </select>
+
+
+                <label>Pilih Tahun</label>
+                <select id="tahun">
+                    <option value="2023">2023</option>
+                    <option value="2024">2024</option>
+                </select>
+            </div>
+        </main>
+
+        <section class="stats">
+            <h2>Statistik Simpulan :</h2>
+            <div class="stats-box">
+                <div class="lowest">
+                    <h3>Persentase Terendah</h3>
+                    <p id="lowestValue">...%</p>
+                    <span id="lowestRegion">Nama Kabupaten/Kota</span>
+                </div>
+                <div class="highest">
+                    <h3>Persentase Tertinggi</h3>
+                    <p id="highestValue">...%</p>
+                    <span id="highestRegion">Nama Kabupaten/Kota</span>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-geo@4"></script>
+    <script src="app.js"></script>
+</body>
+</html>
