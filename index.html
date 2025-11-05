@@ -48,8 +48,10 @@
     </button>
 </div>
 
-
         <main>
+                 <p id="chartDescription" style="text-align:center; margin-top:15px; font-size:14px; color:#333;">
+                Grafik ini menampilkan distribusi persentase peserta berdasarkan jenis PBI dan tahun yang dipilih.
+                </p>           
             <div class="chart-container">
                 <canvas id="pbiChart"></canvas>
                 <canvas id="mapChart" style="display:none; margin-top:20px;"></canvas>
@@ -83,7 +85,7 @@
                 </select>
             </div>
         </main>
-
+        
         <section class="stats">
             <h2>Statistik Simpulan :</h2>
             <div class="stats-box">
@@ -98,11 +100,24 @@
                     <span id="highestRegion">Nama Kabupaten/Kota</span>
                 </div>
             </div>
+            <p id="insightText" style="text-align:center; margin-top:10px; font-style:italic; color:#444;"></p>
         </section>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-geo@4"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@2.0.1"></script>
     <script src="app.js"></script>
+
+<footer style="
+    text-align: center;
+    padding: 15px;
+    background: linear-gradient(to right, #f97316, #f59e0b);
+    color: #000;
+    font-size: 14px;
+    margin-top: 20px;
+">
+    © 2025 Fina Nur’aeni. All rights reserved.
+</footer>
+
 </body>
 </html>
