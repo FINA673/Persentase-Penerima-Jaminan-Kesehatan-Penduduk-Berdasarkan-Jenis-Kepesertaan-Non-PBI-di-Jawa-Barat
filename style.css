@@ -20,6 +20,7 @@ header {
     text-align: center;
     color: black;
     font-weight: bold;
+    font-size: 28px; /* ukuran default di laptop */
 }
 
 main {
@@ -112,4 +113,68 @@ select {
 
 .stats-box .lowest p {
   color: #d00000; /* merah untuk terendah */
+}
+
+/* ✅ RESPONSIVE DESIGN UNTUK HP DAN TABLET */
+@media screen and (max-width: 768px) {
+    main {
+        flex-direction: column; /* Ubah dari baris ke kolom di layar kecil */
+        align-items: center;
+        padding: 10px;
+    }
+
+    .chart-container, .controls {
+        width: 90%;
+        min-width: unset;
+        margin-bottom: 20px;
+    }
+
+    canvas {
+        max-width: 100%;
+        height: auto;
+    }
+
+    header {
+        font-size: 18px;
+        padding: 15px;
+    }
+
+    .stats-box {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .stats-box div {
+        width: 80%;
+        margin-bottom: 10px;
+    }
+}
+
+.chart-container canvas {
+    width: 100%;
+    height: 500px; /* default laptop */
+}
+
+@media screen and (max-width: 768px) {
+    .chart-container canvas {
+        height: 400px; /* lebih kecil di HP */
+    }
+}
+
+/* ✅ Ukuran header otomatis menyesuaikan layar HP/tablet */
+@media screen and (max-width: 768px) {
+    header {
+        font-size: 20px;  /* judul mengecil di HP */
+        padding: 12px;    /* padding lebih kecil supaya proporsional */
+    }
+}
+
+header h1 {
+    margin: 0;
+    font-size: 28px;
+}
+@media screen and (max-width: 768px) {
+    header h1 {
+        font-size: 20px;
+    }
 }
