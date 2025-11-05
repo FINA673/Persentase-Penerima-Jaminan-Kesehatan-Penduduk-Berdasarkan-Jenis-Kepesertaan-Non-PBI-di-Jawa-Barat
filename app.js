@@ -74,23 +74,61 @@ function renderChart(data, type, labelTitle) {
         };
     }
 
-    chart = new Chart(ctx, {
+    chart = new Chart(chartCanvas.getContext('2d'), {
         type: type === 'histogram' ? 'bar' : type,
         data: datasetConfig,
-        options: {
-            responsive: true,
-            plugins: {
-                legend: { display: true }
+options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+        legend: { display: true },
+        tooltip: { bodyFont: { size: 12 } },
+
+        // ✅ Tambahan plugin zoom/pan
+        zoom: {
+            pan: {
+                enabled: true,
+                mode: 'x', // bisa digeser kiri-kanan
             },
-            scales: (type === 'pie' || type === 'scatter') ? {} : {
-                y: { beginAtZero: true, title: { display: true, text: 'Persentase (%)' } },
-                x: { title: { display: true, text: 'Kabupaten / Kota' } }
+            zoom: {
+                wheel: { enabled: true }, // zoom dengan scroll mouse
+                pinch: { enabled: true }, // zoom dengan dua jari di HP
+                mode: 'x', // hanya zoom sumbu X (horizontal)
+            },
+            limits: {
+                x: { minRange: 1 }, // jangan sampai zoom terlalu sempit
             }
         }
+    },
+    layout: {
+        padding: { top: 20, bottom: 20, left: 10, right: 10 }
+    },
+    scales: (type === 'pie' || type === 'scatter') ? {} : {
+        y: {
+            beginAtZero: true,
+            title: { display: true, text: 'Persentase (%)' },
+            ticks: { font: { size: window.innerWidth < 600 ? 10 : 12 } }
+        },
+        x: {
+            title: { display: true, text: 'Kabupaten / Kota' },
+            ticks: {
+                font: { size: window.innerWidth < 600 ? 9 : 12 },
+                autoSkip: true,
+                maxRotation: 60,
+                minRotation: 45
+            }
+        }
+    }
+}
+
     });
+
+    // Atur tinggi canvas secara proporsional
+    chartCanvas.style.height = window.innerWidth < 600 ? '400px' : '500px';
 
     updateStats(data);
 }
+
 
 // --- Fungsi render peta interaktif ---
 async function renderMap(data) {
@@ -188,6 +226,14 @@ function updateStats(data) {
     document.getElementById('lowestValue').textContent = `${minData.persentase}%`;
     document.getElementById('lowestRegion').textContent = minData.kabupaten_kota;
 }
+
+// Tombol reset zoom
+document.getElementById('resetZoom').addEventListener('click', () => {
+    if (chart && chart.resetZoom) {
+        chart.resetZoom();
+    }
+});
+
 
 // --- Fungsi utama update chart/peta ---
 async function updateChart() {
