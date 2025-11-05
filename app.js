@@ -233,6 +233,19 @@ document.getElementById('resetZoom').addEventListener('click', () => {
         chart.resetZoom();
     }
 });
+// Tombol Zoom In
+document.getElementById('zoomIn').addEventListener('click', function() {
+    if (chart) {
+        chart.zoom(1.2); // Perbesar 20%
+    }
+});
+
+// Tombol Zoom Out
+document.getElementById('zoomOut').addEventListener('click', function() {
+    if (chart) {
+        chart.zoom(0.8); // Perkecil 20%
+    }
+});
 
 
 // --- Fungsi utama update chart/peta ---
